@@ -3,7 +3,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>What is a Password Manager</b>
-  - [What is a Password Manager](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [What is a Password Manager](https://github.com/ashwinicyber/PasswordManager)
 
 - <b> PICO CTF</b>
   - [PicoCTF 2022 #49 SQL INJECTION (sqlilite)](https://github.com/joshmadakor1/EncrypterPOC)
