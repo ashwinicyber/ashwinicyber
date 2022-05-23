@@ -6,7 +6,7 @@
   - [What is a Password Manager](https://github.com/ashwinicyber/PasswordManager)
 
 - <b> PICO CTF</b>
-  - [PicoCTF 2022 #49 SQL INJECTION (sqlilite)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [PicoCTF 2022 #49 SQL INJECTION (sqlilite)](https://github.com/ashwinicyber/sqlinjectionCTF)
   - [PicoCTF 2022 #38 ‘Secrets’ HIDDEN WEBSITE DIRECTORIES](https://github.com/joshmadakor1/DecrypterPOC)
   - [PicoCTF 2022 #17 ‘ Packets-primer’ INTRODUCTION TO WIRESHARK](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
