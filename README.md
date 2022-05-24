@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
+- <b>My Python Projects</b>
+  - [My Python Projects](https://github.com/ashwinicyber/PasswordManager)
+
 - <b>What is a Password Manager</b>
   - [What is a Password Manager](https://github.com/ashwinicyber/PasswordManager)
 
@@ -9,7 +12,7 @@
   - [PicoCTF 2022 #49 SQL INJECTION (sqlilite)](https://github.com/ashwinicyber/sqlinjectionCTF)
   - [PicoCTF 2022 #38 ‘Secrets’ HIDDEN WEBSITE DIRECTORIES](https://github.com/ashwinicyber/HIDDEN-WEBSITE-DIRECTORIES)
   
-- <b>Python</b>
+- <b>Key logger using Python</b>
   - [Key logger Using Python](https://github.com/ashwinicyber/keylogger-in-Python)
 
 <h2>👨‍💻 Certifications</h2>
