@@ -8,7 +8,7 @@
 - <b> PICO CTF</b>
   - [PicoCTF 2022 #49 SQL INJECTION (sqlilite)](https://github.com/ashwinicyber/sqlinjectionCTF)
   - [PicoCTF 2022 #38 ‘Secrets’ HIDDEN WEBSITE DIRECTORIES](https://github.com/ashwinicyber/HIDDEN-WEBSITE-DIRECTORIES)
-  - [PicoCTF 2022 #17 ‘ Packets-primer’ INTRODUCTION TO WIRESHARK](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  
 - <b>Python</b>
   - [Key logger Using Python](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
