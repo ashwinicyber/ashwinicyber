@@ -3,7 +3,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>My Python Projects</b>
-  - [My Python Projects](https://github.com/ashwinicyber/PasswordManager)
+  - [My Python Projects](https://github.com/ashwinicyber/MypythonProjects)
 
 - <b>What is a Password Manager</b>
   - [What is a Password Manager](https://github.com/ashwinicyber/PasswordManager)
