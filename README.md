@@ -10,7 +10,7 @@
   - [PicoCTF 2022 #38 ‘Secrets’ HIDDEN WEBSITE DIRECTORIES](https://github.com/ashwinicyber/HIDDEN-WEBSITE-DIRECTORIES)
   
 - <b>Python</b>
-  - [Key logger Using Python](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Key logger Using Python](https://github.com/ashwinicyber/keylogger-in-Python)
 
 <h2>👨‍💻 Certifications</h2>
 
