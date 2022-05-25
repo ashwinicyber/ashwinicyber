@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
+- <b>Quick Data Analysis Using Python & Pandas</b>
+  - [Quick Data Analysis Using Python & Pandas](https://github.com/ashwinicyber/MypythonProjects)
+
 - <b>My Python Projects</b>
   - [My Python Projects](https://github.com/ashwinicyber/MypythonProjects)
 
